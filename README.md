@@ -1,3 +1,3 @@
 # Chinese-Reviews-NLP-Sentiment-Analysis
 
-A way to analyse chinese reviews. include: split word, frequency count, wordcloud
+A way to analyse chinese reviews. include: customzied dictionary, split word, extract emotion word, frequency count, wordcloud
